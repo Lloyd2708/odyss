@@ -1,0 +1,90 @@
+{
+  "financement": {
+    "definition": "Une définition fine du budget nécessaire à la réalisation du projet est à opérer. Pour démarrer votre projet d’entreprise, vous devez définir vos besoins de manière rationnelle (exploitation et investissement).",
+    "options": {
+      "autofinancement": "Financement du projet par des fonds propres à l’entrepreneur.",
+      "love_money": "Financement par des fonds remis par des proches qui participent à la réalisation du projet.",
+      "programmes_etatiques": [
+        {
+          "nom": "Mergence Invest",
+          "description": "Dans le cadre du Pacte Emergence, l’État met en place trois Fonds d’investissement Publics/Privés orientés Capital Risque, Capital Développement et Capital Transmission.",
+          "objectifs": [
+            "Lever les freins de la sous-capitalisation qui pénalisent actuellement de nombreuses PME",
+            "Améliorer le haut de bilan pour un meilleur accès au financement bancaire",
+            "Permettre à la PME de bénéficier d’une expertise en termes de management",
+            "Faciliter les opérations de transmission et de reprise des PME",
+            "Accélérer la création de nouvelles PME"
+          ],
+          "contribution_etat": "350 millions de Dirhams",
+          "fonds_mobilises": "750 millions de Dirhams pour accompagner des entreprises à fort potentiel de croissance et dont le chiffre d’affaires ne dépasse pas 100M Dirhams"
+        },
+        {
+          "nom": "Caisse Centrale de Garantie (CCG)",
+          "description": "La Caisse Centrale de Garantie est une institution publique à caractère financier qui soutient l'initiative privée par des garanties et cofinancements.",
+          "garanties": [
+            "Garanties des crédits d’investissement, d’exploitation, de transmission et de restructuration financière",
+            "Cofinancement avec les banques des projets d’investissement",
+            "Financement du haut du bilan à travers les fonds d’investissement et la garantie du capital risque"
+          ],
+          "pourcentage_garantie": "50 à 85 % des crédits d’investissement",
+          "autres_interventions": [
+            "Cofinancement des projets innovants dans le secteur des TIC",
+            "Soutien à la modernisation et création d’entreprises"
+          ]
+        }
+      ]
+    },
+    "aides_fiscales_et_sociales": {
+      "exonerations": [
+        "Taxe professionnelle pendant les 5 premières années à compter de l’année de début de l’activité",
+        "Taxe de services communaux pendant 5 ans à compter de l’année de début de l’activité",
+        "Exonération de la cotisation minimale pendant 36 mois pour les sociétés débutant leur activité",
+        "Exonération d’IS pendant 5 ans pour les sociétés exportatrices de biens et services"
+      ],
+      "taux_reduit": [
+        "Taux réduit de l’IS (17,5%) pour les entreprises exportatrices après 5 ans",
+        "Taux réduit de l’IS (17,5%) pour les entreprises ayant leur siège social dans la province de Tanger",
+        "Taux réduit de l’IS (10%) pour les sociétés réalisant un résultat fiscal inférieur à 300.000 Dirhams"
+      ],
+      "conventions_non_double_imposition": "Le Maroc a signé des conventions de non double imposition fiscale avec plusieurs pays."
+    },
+    "capital_investissement": {
+      "definition": "Le capital Investissement consiste en une prise de participation dans des entreprises ayant besoin de fonds propres ou quasi-fonds propres.",
+      "types": [
+        "Capital risque et amorçage : Investissement dans des entreprises en démarrage",
+        "Capital développement : Investissement dans des entreprises en développement",
+        "Capital transmission : Investissement dans des entreprises matures"
+      ],
+      "acteurs": {
+        "entrepreneurs": "Chefs d’entreprises en quête de financement",
+        "acheteurs": "Nouveaux entrants après la sortie des investisseurs en capital"
+      },
+      "loi": "Le Dahir n° 1-06-13 du 15 Mouharrem 1427 définit les organismes de placement en capital risque."
+    },
+    "fonds_investissement": [
+      {
+        "nom": "Maroc Numeric Fund",
+        "description": "Fonds institutionnel dédié aux entreprises du secteur des nouvelles technologies pour accompagner les entrepreneurs dans le secteur technologique.",
+        "montant": "100 M Dirhams",
+        "tickets_investissement": "À partir de 1M Dirhams"
+      },
+      {
+        "nom": "Fonds Dayam",
+        "description": "Fonds d’amorçage et d’essaimage pour la concrétisation de projets innovants et à fort potentiel compétitif.",
+        "fonds": "Sherpa Finance",
+        "controle": "Groupe Saham, My Hafid Elalamy"
+      },
+      {
+        "nom": "Fonds Innovation TIC",
+        "description": "Fonds de soutien à l’innovation dans le secteur des technologies de l’information et de la communication.",
+        "financement": "50% du coût du projet, jusqu’à 2 M Dirhams",
+        "taux_interet": "2% par an",
+        "commission_etude": "5000 Dirhams hors TVA"
+      },
+      {
+        "nom": "Innovact",
+        "description": "Programme d’appui financier par projet, plafonné à 200 000 Dirhams pour les TPE, 400 000 Dirhams pour les PME et 700 000 Dirhams pour les groupements d’entreprises."
+      }
+    ]
+  }
+}

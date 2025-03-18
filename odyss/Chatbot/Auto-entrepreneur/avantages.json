@@ -1,0 +1,46 @@
+{
+  "auto_entrepreneur": {
+    "avantages": {
+      "fiscalité": {
+        "description": "Un régime fiscal simple et attractif, adapté aux petites activités.",
+        "taux_imposition": {
+          "activites_commerciales_industrielles_artisanales": {
+            "taux": "0.5%",
+            "plafond": "500000 MAD"
+          },
+          "activites_de_services": {
+            "taux": "1%",
+            "plafond": "200000 MAD"
+          }
+        },
+        "exonérations": {
+          "tva": true,
+          "taxe_professionnelle": {
+            "exonération": true,
+            "durée": "5 ans"
+          }
+        }
+      },
+      "couverture_sociale": {
+        "description": "Un régime spécifique de protection sociale et médicale.",
+        "référence_loi": "Article 2 de la loi n° 114-13"
+      },
+      "autres_avantages": [
+        "Inscription simplifiée sans obligation d'enregistrement au registre de commerce",
+        "Exonération de comptabilité poussée",
+        "Possibilité de domicilier son activité chez soi ou dans des locaux partagés",
+        "Protection de la résidence principale contre les dettes professionnelles",
+        "Accès à des formations et à un accompagnement via Maroc PME"
+      ]
+    },
+    "obligations": {
+      "déclaration_chiffre_affaires": {
+        "fréquence": ["mensuelle", "trimestrielle"],
+        "mode": ["physique en agence Barid Al Maghrib", "en ligne"]
+      },
+      "respect_plafonds": "Le chiffre d'affaires ne doit pas dépasser les seuils légaux.",
+      "tenue_comptable": "Une comptabilité simplifiée est requise.",
+      "conseil": "Créer un compte bancaire dédié à l'activité pour une meilleure gestion financière."
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "demarches": {
+    "declaration_existence": {
+      "description": "Pour obtenir le statut d'auto-entrepreneur, vous devez déposer une déclaration d'existence dans les 30 jours suivant le début de votre activité.",
+      "documents_necessaires": [
+        "Une photo personnelle",
+        "Une photocopie de votre carte d'identité nationale (CIN)"
+      ],
+      "depot": "La déclaration se fait auprès d'une agence Barid Al Maghrib."
+    },
+    "inscription": {
+      "demande": "En même temps que la déclaration d'existence, vous devez formuler une demande d'inscription au registre national des auto-entrepreneurs.",
+      "delais_max": [
+        "2 jours pour l'examen de votre demande",
+        "3 jours ouvrables pour l'édition de l'attestation d'inscription",
+        "10 jours pour la mise à disposition de la carte d'auto-entrepreneur"
+      ]
+    },
+    "procedure_en_ligne": {
+      "formulaire": "Renseignez en ligne le formulaire d'inscription au registre national de l'auto-entrepreneur selon la législation en vigueur.",
+      "documents": "Il vous faudra aussi remplir une déclaration d'existence et soumettre une photo d'identité ainsi qu'une copie de votre carte d'identité nationale."
+    },
+    "validation": {
+      "description": "Après étude de votre demande, une carte officielle 'auto-entrepreneur' vous sera délivrée dans un délai maximum de 10 jours après validation de l'inscription."
+    },
+    "radiation": {
+      "description": "La radiation signifie la perte du statut d'auto-entrepreneur et la suppression du registre national.",
+      "causes_de_radiation": [
+        "Demande volontaire avec un inventaire des biens",
+        "Non-déclaration du chiffre d'affaires",
+        "Chiffre d'affaires annuel nul pendant une année civile (hors année d'inscription)",
+        "Chiffre d'affaires annuel supérieur aux seuils pour 2 années consécutives",
+        "Non-paiement des impôts ou des cotisations sociales pendant une année civile",
+        "Transformation de l'activité en société",
+        "Décision judiciaire de radiation pour non-respect des textes législatifs et réglementaires"
+      ]
+    },
+    "cadre_juridique": {
+      "textes_pertinents": [
+        "Loi 114-13 relative au statut de l'auto-entrepreneur",
+        "Arrêté conjoint n° 1809-15: le formulaire d'inscription",
+        "Arrêté n°1810-15: les délais d'inscription",
+        "Loi de finances n° 110-13 pour l’année budgétaire 2014",
+        "Article 6 de la loi de finances 2015 n° 100-14",
+        "Code Général des Impôts (CGI) 2015"
+      ]
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "entreprise_quotidien": {
+    "titre": "MON ENTREPRISE AU QUOTIDIEN",
+    "ambition": "Avez-vous l'ambition de développer votre entreprise dans de bonnes conditions ? Nous vous proposons des informations pratiques pour faciliter votre gestion quotidienne.",
+    "sections": [
+      {
+        "titre": "1 - GESTION QUOTIDIENNE DE L'ACTIVITÉ",
+        "contenu": "La gestion de votre activité au quotidien passe par la maîtrise de différents postes clés tels que la gestion des coûts fixes, de revient et d'investissement, de la facturation, des ressources humaines, de la comptabilité, des stocks, de la fiscalité..."
+      },
+      {
+        "titre": "Comment maîtriser ses coûts fixes et d’investissement ?",
+        "contenu": "L’optimisation et la réduction des coûts représentent un levier principal de rentabilité. Voici 7 pistes pour l’atteinte de cet objectif : Budgétiser les coûts et en assurer le suivi, Vérifier les contrats fournisseurs et les renégocier, Lancer des appels d'offres, Faire le tri parmi les fournisseurs, Tendre vers le zéro papier, Responsabiliser les salariés pour optimiser les frais généraux, Mettre en place des outils de reporting"
+      },
+      {
+        "titre": "Comment maîtriser son coût de revient ?",
+        "contenu": "Prendre connaissance de son coût de revient via la mise en place d’une comptabilité analytique vous permettra de suivre de près votre activité et de piloter vos performances commerciales, notamment en matière de marges dégagées et prix de vente sur le marché. L’instauration d’un système d’analyse et de calcul du coût de revient permet de : Déterminer les prix de vente de produits sur la base de la marge escomptée, Décider de garder un produit ou non en connaissance de sa marge bénéficiaire/déficitaire, Identifier les produits et services rentables et non rentables, Prendre des décisions d'externalisation de certaines fonctions (distribution, transport...)"
+      },
+      {
+        "titre": "LA FACTURATION",
+        "contenu": "L’établissement d’une facture est d’abord une obligation légale. Ce document à finalités pluridisciplinaires (commerciale, juridique, fiscale et comptable) puise son utilité dans la limitation des conditions d’engagement entre les parties eu égard les produits vendus ou services rendus (nature, quantité, poids, qualité, prix, modalités et échéance de paiement, etc.). La gestion de la facturation est facilitée par l’utilisation d’un logiciel de facturation et de gestion commerciale. Il vous permettra notamment d’établir vos devis et factures rapidement, d’indexer vos prix de vente dans le logiciel, de fixer des fourchettes de remises à ne pas dépasser, de déterminer les plafonds de crédit clients, etc."
+      },
+      {
+        "titre": "RESSOURCES HUMAINES",
+        "contenu": "Le pilotage de l’activité passe par la gestion du capital humain, en interne et avec les organismes externes (CNSS, Caisses de retraite, Administrations…). Les principaux aspects à gérer sont : L’administration et la gestion de la paie, Le recrutement, Le développement des compétences, Les déclarations fiscales et sociales."
+      },
+      {
+        "titre": "LA COMPTABILITE",
+        "contenu": "La comptabilité est la langue commune de tous les professionnels. Elle consiste à enregistrer toutes les pièces comptables (factures d'achat ou de vente, quittances, notes de frais, chèque, virement, ...) de l’entreprise. Elle sert aussi à vérifier l'état du patrimoine (ressources et emplois) de l’entreprise et à examiner la composition de ses produits et charges suivant le Plan Comptable Marocain."
+      },
+      {
+        "titre": "LES STOCKS",
+        "contenu": "Bien gérer son stock, c’est économiser de l’argent ! Une bonne gestion des stocks implique une optimisation du taux de rotation de votre stock et de sa durée moyenne de stockage. Deux objectifs essentiels devraient être fixés : Diminuer les coûts de stockage, Maîtriser et sécuriser les produits stockés, Analyser les pistes de réduction des coûts de stockage, Identifier les fournisseurs offrant les conditions financières les plus avantageuses."
+      },
+      {
+        "titre": "LA FISCALITE",
+        "contenu": "Gérer sa fiscalité ne se réduit pas à remplir et déposer ses déclarations. C’est aussi optimiser sa charge d’impôt sans pour autant chercher à contourner la loi. Voici quelques moyens pour y parvenir : Bien choisir au préalable votre statut juridique, Se renseigner sur les exonérations fiscales compte tenu de la nature de l'activité et l'implantation de l'entreprise."
+      },
+      {
+        "titre": "LA QUALITE",
+        "contenu": "La gestion de la qualité n’est pas toujours synonyme de la production de biens et services de « haute qualité », c’est surtout être en phase avec ce qu’attend le client en produisant la « juste qualité » au « juste coût ». En mobilisant l’ensemble des services pour atteindre leurs objectifs et assurer les synergies nécessaires à la concrétisation de la stratégie de développement de votre entreprise, vous parviendrez à maîtriser, améliorer et anticiper la qualité de vos produits."
+      },
+      {
+        "titre": "LA COMMUNICATION",
+        "contenu": "Faire connaître son entreprise tout en véhiculant une bonne image de marque n’est pas un acquis. Les principales contraintes sont le temps et l’argent, autant les optimiser. Au cours de l’étape de création, vous avez choisi un nom commercial, une enseigne, voire une marque de fabrique. Votre rôle est de créer une identité propre à votre entreprise et vous construire une renommée dans votre secteur."
+      },
+      {
+        "titre": "SECURITE DE L’ENTREPRISE",
+        "contenu": "Tout au long de votre activité, votre entreprise pourra être confrontée à plusieurs types de risques : financiers, informatiques, humains, matériels…etc. Ces états ne devront pas constituer une menace ou un frein au développement de votre business, mais une base pour vous responsabiliser encore plus. Afin de vous en prémunir, le meilleur moyen est de sécuriser votre entreprise, sur les volets informatique, patrimonial et humain."
+      },
+      {
+        "titre": "LES POSTES CLIENTS ET FOURNISSEURS",
+        "contenu": "Gérer les postes clients/fournisseurs c’est : Examiner les opérations financières quotidiennes et particulièrement la trésorerie, Sécuriser vos relations avec vos partenaires commerciaux et anticiper les défaillances, Etudier la dépendance de votre entreprise vis-à-vis de ses clients, Etudier la dépendance de votre entreprise vis-à-vis de ses fournisseurs."
+      },
+      {
+        "titre": "LES OUTILS INFORMATIQUES",
+        "contenu": "Pour accompagner son développement, toute entreprise se doit d’acquérir les outils informatiques dont elle a besoin. Ces outils sont importants car ils rendent l’activité d’exploitation et la gestion de l’entreprise plus rapides et efficaces."
+      },
+      {
+        "titre": "LA CREATION D’UN SITE",
+        "contenu": "Une marque ou un nom commercial introuvable sur Internet n’inspirera pas la confiance des prospects et des clients potentiels. Votre entreprise doit être à proximité de sa clientèle, à l’écoute de ses demandes et réclamations. La mise en place d’un site web vous aidera à atteindre cet objectif."
+      }
+    ]
+  }
+}

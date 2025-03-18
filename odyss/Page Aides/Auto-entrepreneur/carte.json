@@ -1,0 +1,21 @@
+{
+  "carte_auto_entrepreneur": {
+    "description": "La carte d'auto-entrepreneur est un document clé pour tout entrepreneur individuel au Maroc. Elle symbolise votre entrée dans le monde de l'entrepreneuriat et vous offre des avantages pratiques et financiers. Voici pourquoi elle est indispensable :",
+    "avantages": {
+      "identification_officielle": "Elle atteste de votre statut légal d'auto-entrepreneur, facilitant vos interactions avec les banques, les clients, et toutes démarches administratives.",
+      "regime_fiscal_simplifie": "Elle vous donne accès à un régime fiscal avantageux, spécialement conçu pour les petites entreprises, ce qui réduit votre charge fiscale.",
+      "facilitation_démarches_commerciales": "Elle simplifie vos transactions commerciales, créant une relation de confiance avec vos partenaires d'affaires.",
+      "ouverture_compte_bancaire_professionnel": "Cette carte facilite l'ouverture d'un compte bancaire professionnel, ce qui vous aide à gérer vos finances de manière plus efficace."
+    },
+    "comment_obtenir": {
+      "preinscription_rnae": "Commencez par vous inscrire sur le site RNAE (rn.ae.gov.ma), remplissez le formulaire d'inscription, puis imprimez-le et signez-le.",
+      "inscription_bancaire": "Rendez-vous dans une agence bancaire (par exemple, Attijariwafa Bank) avec une copie de votre CIN, le formulaire de pré-inscription et une photo d'identité.",
+      "obtention_carte": "Une fois inscrit, vous serez reconnu comme auto-entrepreneur grâce à plusieurs identifiants :",
+      "identifiants": {
+        "identifiant_commun_entreprise": "Votre numéro RNAE, qui vous identifie dans le registre national.",
+        "identifiant_fiscal": "Votre numéro d'identification fiscale auprès de la Direction Générale des Impôts (DGI).",
+        "numero_taxe_professionnelle": "Votre numéro d'identification pour la taxe professionnelle."
+      }
+    }
+  }
+}

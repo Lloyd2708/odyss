@@ -1,0 +1,34 @@
+{
+  "auto_entrepreneur": {
+    "definition": {
+      "description": "Le statut d'auto-entrepreneur est conçu pour encourager l'auto-emploi et faciliter les démarches administratives, tout en offrant la liberté d'entreprendre. Il permet à chacun de lancer une activité indépendante, qu’il soit chômeur, retraité, ou étudiant.",
+      "avantages_principaux": [
+        "Liberté de choisir l'activité professionnelle et d'organiser son emploi du temps.",
+        "Simplification de la gestion administrative, comptable et fiscale.",
+        "Accès aux écosystèmes entrepreneuriaux et inclusion financière auprès des institutions bancaires."
+      ]
+    },
+    "eligibilite": {
+      "conditions": [
+        "Chiffre d'affaires annuel ne dépassant pas 500 000 MAD pour les activités commerciales et 200 000 MAD pour les services.",
+        "Adhésion à un régime de sécurité sociale conforme.",
+        "Tenue d'un registre des achats et ventes, validé par un responsable.",
+        "Le statut est exclusif : on ne peut pas être auto-entrepreneur et salarié ou fonctionnaire simultanément."
+      ],
+      "activites_exclues": [
+        "Les professions réglementées comme les avocats, architectes, médecins, etc.",
+        "Les administrateurs de biens, agents de voyages, comptables, notaires, etc."
+      ]
+    },
+    "avantages": {
+      "liberte": "Exercer l'activité professionnelle de manière indépendante et sans contraintes administratives.",
+      "simplicite": "Le régime fiscal et comptable simplifié pour une gestion allégée.",
+      "inclusion": "Accès facilité aux financements et à l'accompagnement des institutions comme Maroc PME."
+    },
+    "obligations": {
+      "déclaration": "Déposer régulièrement la déclaration de chiffre d'affaires auprès d'une agence Barid Al Maghrib, en ligne ou physiquement.",
+      "comptabilite": "Tenir une comptabilité simplifiée et conserver les justificatifs des transactions.",
+      "registre": "Maintenir un registre des achats et ventes conforme aux exigences légales."
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "gestion_de_la_tresorerie": {
+    "definition": {
+      "objectif": "Assurer une trésorerie suffisante pour honorer les engagements financiers de l'entreprise.",
+      "aspects": [
+        "Respect des échéances sociales et fiscales",
+        "Planification des paiements fournisseurs",
+        "Gestion des délais clients",
+        "Climat de confiance avec les banquiers"
+      ]
+    },
+    "plan_de_tresorerie": {
+      "definition": "Le plan de trésorerie est un plan prévisionnel offrant une visibilité sur les flux financiers à court terme.",
+      "periode": "12 mois",
+      "utilite": [
+        "Le solde de trésorerie du mois",
+        "Le solde cumulé d'un mois sur le suivant",
+        "Les disponibilités du mois (vérification des dettes à payer dans les délais)"
+      ],
+      "construction": [
+        "Intégration des flux de gestion courante, d'investissement et de financement",
+        "Notez les entrées (Encaissements) et sorties (Décaissements) de fonds chaque mois",
+        "Utilisation des informations financières provenant du compte de résultat prévisionnel et du plan de financement"
+      ]
+    },
+    "indicateurs_de_reussite": {
+      "fonds_de_roulement": {
+        "definition": "Excédent des capitaux permanents (capitaux propres et emprunts à long et moyen termes) sur les immobilisations.",
+        "implication": "Un FR positif est un indice de solvabilité, un FR négatif indique un besoin en financement externe."
+      },
+      "besoin_en_fonds_de_roulement": {
+        "definition": "Décalage entre recettes et dépenses nécessaires à l’activité.",
+        "risques": "BFR positif nécessite un financement externe pour éviter la cessation de paiement."
+      },
+      "tresorerie_nette": {
+        "definition": "Différence entre le FR et le BFR.",
+        "implication": "Si le BFR excède le FR, la trésorerie devient négative."
+      },
+      "seuil_de_rentabilite_et_point_mort": {
+        "definition": "Seuil de rentabilité est le chiffre d'affaires nécessaire pour couvrir les charges.",
+        "implication": "Le point mort représente la durée nécessaire pour commencer à dégager un profit."
+      },
+      "ratio_independance_financiere": {
+        "definition": "Ratio entre capitaux propres et ressources stables.",
+        "implication": "Un ratio trop faible complique l'accès à des financements externes."
+      }
+    },
+    "gestion_comptable": {
+      "definition": "Toutes les opérations de l'entreprise doivent être traduites en comptabilité de manière régulière.",
+      "options": [
+        "Tenue de la comptabilité interne",
+        "Externalisation auprès de cabinets spécialisés"
+      ],
+      "taches_externalisables": [
+        "Gestion comptable et fiscale",
+        "Tenue de la comptabilité générale et déclarations fiscales (TVA, IS, etc.)",
+        "Gestion des achats et ventes (factures, encaissements, etc.)",
+        "Paie et déclarations sociales"
+      ]
+    },
+    "solutions_financement_exploitation": {
+      "decouvert_bancaire": {
+        "definition": "Crédit permettant de dépasser les sommes présentes sur le compte bancaire.",
+        "caracteristiques": "Possibilité offerte par la banque, non un droit."
+      },
+      "escompte_effet_commerce": {
+        "definition": "Cession d'un effet de commerce à la banque pour un financement à court terme.",
+        "caracteristiques": "Doit être précédée d'un contrat d'escompte signé avec la banque."
+      },
+      "facilite_de_caisse": {
+        "definition": "Crédit à court terme permettant de gérer les dépenses immédiates.",
+        "caracteristiques": "Accordé par la banque avec des conditions de durée, montant et taux d’intérêt définis."
+      },
+      "factoring": {
+        "definition": "Vente des comptes débiteurs ou factures à un établissement financier.",
+        "caracteristiques": "Le factor finance l'entreprise et gère le recouvrement des créances."
+      }
+    }
+  }
+}

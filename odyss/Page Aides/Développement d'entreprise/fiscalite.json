@@ -1,0 +1,267 @@
+{
+  "fiscalite": {
+    "introduction": "La fiscalité est incontournable dans une entreprise mais peut paraître complexe pour les non-spécialistes. Il est pourtant impératif de se familiariser avec l’environnement fiscal d’une entreprise pour une gestion complète et optimale.",
+    "impot_sur_les_societes": {
+      "definition": "L’impôt sur les sociétés (IS) s’applique obligatoirement à l’ensemble des produits, bénéfices et revenus que vous réalisez.",
+      "personnes_concernees": {
+        "obligatoire": [
+          "Sociétés de capitaux (SA, SARL, SCA)",
+          "Établissements publics exerçant une activité industrielle ou commerciale",
+          "Autres personnes morales à but lucratif"
+        ],
+        "par_option": [
+          "Sociétés de personnes (SNC, SCS, SP ne comprenant que des personnes physiques)"
+        ]
+      },
+      "calcul_impot": {
+        "formule": "Résultat fiscal = Résultat comptable + Réintégrations - Déductions",
+        "taux": {
+          "normal": "30%",
+          "etablissements_credit": "37%",
+          "taux_reduit": "10% pour bénéfices <= 300.000 dirhams"
+        },
+        "cotisation_minimale": {
+          "montant": "3.000 Dirhams",
+          "base_calcul": "Chiffre d'affaires + Autres produits d’exploitation + Produits financiers + Subventions et dons reçus par l’Etat",
+          "taux": "0,5%"
+        }
+      },
+      "obligation_declarative": {
+        "declaration": "Établir une déclaration du résultat fiscal et du chiffre d'affaires dans les trois mois suivant la clôture de l'exercice comptable.",
+        "pieces_annexes": [
+          "États de synthèse",
+          "Déclaration des rémunérations versées",
+          "État explicatif du résultat nul ou déficitaire"
+        ],
+        "teledeclaration": {
+          "seuils": [
+            "50 millions de dirhams à partir du 1er janvier 2011",
+            "10 millions de dirhams à partir du 1er janvier 2016",
+            "3 millions de dirhams à partir du 1er janvier 2017"
+          ]
+        }
+      },
+      "liquidation_impots": {
+        "acomptes": "Quatre acomptes provisionnels de 25% du montant de l'impôt dû au titre de l'exercice précédent.",
+        "paiement_reliquat": "À acquitter dans le délai de déclaration."
+      },
+      "synthese_impot": {
+        "versement_acomptes": "Versement des 4 acomptes provisionnels.",
+        "declaration_resultat_final": "Établissement de la déclaration du résultat final.",
+        "calcul_is": "Calcul de l'IS et de la CM aux taux applicables."
+      },
+      "telepaiements": {
+        "seuils": [
+          "50 millions de dirhams à partir du 1er janvier 2011",
+          "10 millions de dirhams à partir du 1er janvier 2016",
+          "3 millions de dirhams à partir du 1er janvier 2017"
+        ]
+      },
+      "infractions_et_sanctions": {
+        "defaut_ou_retard": {
+          "majoration": "15% pour défaut de dépôt ou déclaration incomplète.",
+          "minimum": "500 Dirhams"
+        },
+        "rectification_base_imposable": {
+          "majoration": "15% des droits correspondant à la rectification."
+        },
+        "paiement_tardif": {
+          "penalite": "10% et majoration de 5% pour le premier mois de retard."
+        }
+      },
+      "exonerations": {
+        "permanentes": [
+          "Associations à but non lucratif",
+          "Organisations à but non lucratif",
+          "Sociétés non résidentes pour plus-values sur cessions de valeurs mobilières cotées"
+        ],
+        "temporaires": [
+          "Titulaire d’une concession d’exploitation des gisements",
+          "Société exploitant des centres de gestion de comptabilité"
+        ]
+      }
+    },
+    "taxe_sur_la_valeur_ajoutee": {
+      "definition": "La TVA est due sur l’ensemble des activités réalisées au Maroc.",
+      "operations_concernees": [
+        "Ventes et livraisons effectuées par les entreprises industrielles",
+        "Travaux immobiliers",
+        "Opérations de banque et de crédit"
+      ],
+      "calcul_impot": {
+        "base_imposition": "Chiffre d'affaires réalisé durant la période concernée.",
+        "taux_normal": "20%"
+      },
+      "obligations_declaratives": {
+        "declaration_mensuelle": {
+          "conditions": "Chiffre d'affaires supérieur ou égal à 1.000.000 Dirhams.",
+          "date_limite": "Avant le 20 du mois suivant."
+        },
+        "declaration_trimestrielle": {
+          "conditions": "Chiffre d'affaires inférieur à 1.000.000 Dirhams.",
+          "date_limite": "Avant le 20 du premier mois de chaque trimestre."
+        }
+      },
+      "paiement": {
+        "calcul_tva_due": "TVA due = TVA facturée - TVA récupérable - Crédit TVA antérieur."
+      },
+      "infractions_et_sanctions": {
+        "defaut_retard_declaration": {
+          "majoration": "15% pour défaut de dépôt ou déclaration hors délai."
+        },
+        "rectification_base_imposable": {
+          "majoration": "15% sur les droits correspondant à la rectification."
+        }
+      },
+      "exonerations": {
+        "sans_droit_a_deduction": [
+          "Ventes de produits alimentaires de base",
+          "Ventes de produits artisanaux"
+        ],
+        "avec_droit_a_deduction": [
+          "Produits livrés et prestations de services à l'exportation",
+          "Biens d’investissement"
+        ]
+      }
+    },
+    "impot_sur_le_revenu": {
+      "definition": "L’impôt sur le revenu (IR) est un impôt direct qui s’applique aux produits, bénéfices et revenus des personnes physiques.",
+      "personnes_concernees": [
+        "Société en nom collectif",
+        "Société en commandite simple",
+        "Société en participation"
+      ],
+      "calcul_impot": {
+        "barème_progressif": [
+          {
+            "tranche": "Moins de 30 000 Dirhams",
+            "taux": "Exonéré"
+          },
+          {
+            "tranche": "30 001 - 50 000 Dirhams",
+            "taux": "10%"
+          },
+          {
+            "tranche": "50 001 - 60 000 Dirhams",
+            "taux": "20%"
+          },
+          {
+            "tranche": "60 001 - 80 000 Dirhams",
+            "taux": "30%"
+          },
+          {
+            "tranche": "80 001 - 180 000 Dirhams",
+            "taux": "34%"
+          },
+          {
+            "tranche": "Au-delà de 180 000 Dirhams",
+            "taux": "38%"
+          }
+        ]
+      },
+      "declaration_annuelle": {
+        "date_limite": "Avant le 1er mars ou 1er avril selon le régime."
+      },
+      "infractions_et_sanctions": {
+        "defaut_retard_declaration": {
+          "majoration": "15% sur le montant des droits correspondants."
+        },
+        "rectification_base_imposable": {
+          "majoration": "15% sur les droits correspondant à la rectification."
+        },
+        "paiement_tardif": {
+          "penalite": "10% et majoration de 5% pour le premier mois de retard."
+        }
+      }
+    },
+    "fiscalite_locale": {
+      "taxe_professionnelle": {
+        "definition": "Taxe instituée au profit de la commune.",
+        "calcul": {
+          "base": "Valeur locative annuelle brute.",
+          "taux": {
+            "C1": "30%",
+            "C2": "20%",
+            "C3": "10%"
+          }
+        }
+      },
+      "taxe_des_services_communaux": {
+        "definition": "Taxe établie annuellement au lieu de situation des immeubles.",
+        "calcul": {
+          "taux": {
+            "urbain": "10,5%",
+            "peripherique": "6,5%"
+          }
+        }
+      },
+      "taxe_sur_les_terrains_urbains_non_batis": {
+        "definition": "Taxe sur les terrains non bâtis situés dans le périmètre des communes urbaines.",
+        "calcul": {
+          "tarifs": {
+            "immeuble": "4 à 20 Dirhams/m2",
+            "zone_villa": "2 à 12 Dirhams/m2"
+          }
+        }
+      }
+    },
+    "droits_enregistrement_et_droits_de_timbre": {
+      "droits_enregistrement": {
+        "definition": "Formalité soumise aux actes et conventions.",
+        "taux": {
+          "6%": "Cession d’immeubles.",
+          "4%": "Acquisition de terrains.",
+          "3%": "Cessions de rentes perpétuelles."
+        }
+      },
+      "droits_de_timbre": {
+        "definition": "Droit dû sur un nombre d'écrits limitativement énumérés.",
+        "taux": {
+          "1%": "Constitutions ou augmentations de capital.",
+          "1,5%": "Antichrèses et nantissements."
+        }
+      }
+    },
+    "obligations_comptables_et_sanctions": {
+      "obligations_comptables": {
+        "definition": "Tenue d'une comptabilité conforme à la réglementation.",
+        "documents": [
+          "Factures de ventes",
+          "Livre d’inventaire",
+          "Fiches clients"
+        ]
+      },
+      "sanctions": {
+        "defaut_communication": {
+          "amende": "2000 Dirhams et astreinte journalière de 100 Dirhams."
+        },
+        "infraction_vente_en_tournee": {
+          "amende": "1% du montant de l’opération."
+        }
+      }
+    },
+    "obligations_declaratives_et_sanctions_communes": {
+      "declaration_existence": {
+        "definition": "Déclaration d’existence à adresser à l’administration fiscale.",
+        "delai": "30 jours suivant la constitution de la société."
+      },
+      "sanction_declaration_existence": {
+        "amende": "1000 Dirhams pour défaut de dépôt."
+      },
+      "declaration_changement_siege": {
+        "definition": "Déclaration de transfert de siège social.",
+        "delai": "30 jours suivant le changement."
+      },
+      "sanction_changement_siege": {
+        "amende": "500 Dirhams pour défaut d’avis."
+      }
+    },
+    "textes_de_loi_et_autorite": {
+      "textes_de_loi": [
+        "Code Général des Impôts",
+        "Loi 47-06 relative à la fiscalité des collectivités locales"
+      ],
+      "autorites_fiscales": "Administration fiscale locale."
+    }
+  }
+}

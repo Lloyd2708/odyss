@@ -1,0 +1,317 @@
+{
+  "programmes_d_aide": {
+    "Moukawalati": {
+      "description": "Programme national d’appui à la création d’entreprises.",
+      "phases": {
+        "etude": {
+          "etude_de_marche": [
+            "Formation théorique groupée",
+            "Déplacements sur le terrain",
+            "Ateliers collectifs"
+          ],
+          "etude_technique": [
+            "Formation interactive et collective",
+            "Formation collective sur les aspects administratifs et financiers",
+            "Présentation du Business Plan"
+          ]
+        },
+        "appui_au_lancement": [
+          "Rectification du Business Plan",
+          "Aide au démarrage"
+        ],
+        "suivi": "Diagnostics et recommandations"
+      },
+      "conditions_d_elegibilite": [
+        "Coût d'investissement entre 50.000 et 500.000 Dirhams",
+        "Nationalité marocaine",
+        "Âge entre 20 et 45 ans",
+        "Titulaire d’un diplôme",
+        "Inscrit à l’ANAPEC",
+        "Porteur d’un projet de première création d’entreprise"
+      ],
+      "contact": {
+        "site": [
+          "www.anapec.org",
+          "www.moukawalati.ma"
+        ]
+      }
+    },
+    "incubateurs_et_associations": {
+      "incubateurs": {
+        "description": "Structures d’accueil pour accompagner les projets d’entreprise.",
+        "services": [
+          "Accompagnement dans l'élaboration du projet",
+          "Formations",
+          "Conseils pour la formalisation",
+          "Recherche de financements",
+          "Événements de networking"
+        ],
+        "conditions": [
+          "Créateurs issus des universités ou centres de recherche",
+          "Business plan intéressant",
+          "Idée viable financièrement et opérationnellement",
+          "Fort potentiel de croissance"
+        ],
+        "contact": {
+          "adresse": "Angle avenues des FAR et Allal El Fassi, Hay Ryad, B.P. 8027 N.U.Rabat, Maroc",
+          "telephone": "05 37 56 98 22",
+          "site": "www.rmie.ma"
+        }
+      },
+      "technopark": {
+        "description": "Aide à la création et au développement de projets innovants.",
+        "avantages": [
+          "Locaux prêts à l’emploi",
+          "Services communs",
+          "Services de proximité"
+        ],
+        "conditions": [
+          "Opérer dans les NTIC, Green Technologies ou industrie culturelle"
+        ],
+        "contact": {
+          "site": "www.technopark.ma",
+          "adresse": {
+            "casablanca": "Boulevard Dammam, Casablanca, Maroc",
+            "rabat": "10, rue Ghandi, Hassan Rabat- Maroc"
+          },
+          "telephone": {
+            "casablanca": "05 22 50 78 71",
+            "rabat": "05 37 70 16 88"
+          }
+        }
+      },
+      "eirene4impact": {
+        "description": "Accompagnement des entrepreneurs à fort impact social et environnemental.",
+        "missions": [
+          "Incubation et développement d'entrepreneurs",
+          "Mise en place d'écosystèmes innovants",
+          "Renforcement de communautés autonomes"
+        ],
+        "impact_camp": {
+          "description": "Programme pour devenir entrepreneur à fort impact.",
+          "avantages": [
+            "Formations et ateliers",
+            "Financement pour les meilleurs projets"
+          ]
+        },
+        "conditions": [
+          "Entrepreneur ou aspirant entrepreneur",
+          "Projet répondant à des problèmes sociétaux",
+          "Âge entre 21 et 35 ans",
+          "Maîtrise du français"
+        ],
+        "contact": {
+          "site": [
+            "www.impactcamp.ma",
+            "www.eirene4impact.org"
+          ]
+        }
+      },
+      "dare_inc": {
+        "description": "Accompagnement des entrepreneurs sociaux.",
+        "avantages": [
+          "Accès à des espaces de co-working",
+          "Coaching et mentoring",
+          "Financement initial"
+        ],
+        "conditions": [
+          "Solution claire à une problématique",
+          "Démarche économique durable",
+          "Capacité de réplication mondiale"
+        ],
+        "contact": {
+          "site": [
+            "www.dareinc.org",
+            "www.mcise.org"
+          ]
+        }
+      },
+      "afem": {
+        "description": "Association pour le développement de l'entrepreneuriat féminin.",
+        "programmes": [
+          "Formation à la médiation",
+          "Formations au management",
+          "Sessions de mentoring",
+          "Assistance à l'accès au financement"
+        ],
+        "conditions": [
+          "Être une femme",
+          "Projet viable avec potentiel de développement",
+          "Membre de l’association"
+        ],
+        "contact": {
+          "adresse": "Technopark, Route de nouaceur n°132 – Casablanca",
+          "telephone": "05 22 50 12 51",
+          "site": "www.afem.ma"
+        }
+      },
+      "enactus_maroc": {
+        "description": "Accompagnement des étudiants dans l'entrepreneuriat social.",
+        "programmes": [
+          "Formations et séminaires",
+          "Compétitions nationales et internationales"
+        ],
+        "conditions": [
+          "Âge maximum de 30 ans",
+          "Fondateur d'un projet avancé",
+          "Impact social, économique et environnemental mesurable"
+        ],
+        "contact": {
+          "site": "www.enactus-morocco.org"
+        }
+      },
+      "ceed_maroc": {
+        "description": "Accompagnement des entrepreneurs pour renforcer l'économie.",
+        "programmes": [
+          "CEED GO-TO-MARKET",
+          "Colloque annuel sur l’entreprenariat"
+        ],
+        "conditions": [
+          "Porteur d’un projet nouveau",
+          "Fort potentiel de croissance"
+        ],
+        "contact": {
+          "adresse": "49 Avenue 2 Mars, 3ème étage Bureau No 14 Casablanca",
+          "site": "www.ceed-morocco.org"
+        }
+      },
+      "startup_yourlife": {
+        "description": "Accompagnement des entrepreneurs innovants.",
+        "avantages": [
+          "Accès à la communauté de startupers",
+          "Mentoring et échanges d’expériences"
+        ],
+        "conditions": [
+          "Porteur d’un projet innovant"
+        ],
+        "contact": {
+          "adresse": "Avenue Assa, Casablanca Maroc",
+          "site": "www.startupyourlife.org"
+        }
+      },
+      "startup_maroc": {
+        "description": "Favoriser l’entreprenariat au Maroc.",
+        "programmes": [
+          "Startup Weekend",
+          "Startup Cup",
+          "Creative Business Cup",
+          "Get in the ring",
+          "Future Agro Challenge"
+        ],
+        "conditions": [
+          "Idées innovantes"
+        ],
+        "contact": {
+          "adresse": "N 602, Technopark -10.Rue Ghandi, Hassan Rabat",
+          "site": "www.startupmaroc.org"
+        }
+      }
+    },
+    "programmes_etatiques": {
+      "moussandada": {
+        "description": "Accompagnement des PME pour améliorer leur compétitivité.",
+        "conditions": [
+          "PME inscrites au registre de commerce",
+          "Chiffre d'affaires annuel inférieur ou égal à 175 millions de Dirhams"
+        ],
+        "financement": "60% des prestations de services, jusqu'à 600 000 Dirhams par entreprise."
+      },
+      "moussandada_ti": {
+        "description": "Accélérer l’usage des technologies de l’information par les PME.",
+        "conditions": [
+          "PME inscrites au registre de commerce",
+          "Chiffre d'affaires annuel inférieur ou égal à 175 millions de Dirhams"
+        ],
+        "financement": "70% du coût d’acquisition des systèmes d’information, jusqu'à 400 000 Dirhams."
+      },
+      "moussandada_siyaha": {
+        "description": "Appui aux PME touristiques.",
+        "conditions": [
+          "Établissements d’hébergement touristique classés",
+          "Agences de voyages agréées",
+          "Entreprises de transport touristique"
+        ],
+        "financement": "Plafonné à 1 million de dirhams par plan de progrès."
+      },
+      "imtiaz": {
+        "description": "Compétition nationale d’investissement pour PME.",
+        "conditions": [
+          "Minimum 2 ans d'existence",
+          "Accord de principe d'une banque",
+          "Chiffre d'affaires annuel inférieur ou égal à 175 millions de Dirhams"
+        ],
+        "financement": "Prime à l’investissement de 20% du montant total du projet, jusqu'à 5 millions de Dirhams."
+      },
+      "istitmar_croissance": {
+        "description": "Soutien à la Très Petite Entreprise.",
+        "conditions": [
+          "Chiffre d'affaires inférieur ou égal à 10 millions de Dirhams"
+        ]
+      },
+      "tatwir": {
+        "description": "Soutien aux projets de recherche et développement.",
+        "conditions": [
+          "Entreprises de droit marocain",
+          "Deux années d’existence"
+        ],
+        "financement": "50% des dépenses engagées, jusqu'à 4 millions de Dirhams."
+      },
+      "intilak": {
+        "description": "Soutien aux start-up à fort potentiel.",
+        "conditions": [
+          "Maximum deux années d’activité"
+        ],
+        "financement": "90% des dépenses liées au projet, jusqu'à 1 million de Dirhams."
+      },
+      "ptr": {
+        "description": "Promotion de l’innovation au sein du tissu économique.",
+        "conditions": [
+          "PME de droit marocain",
+          "Minimum deux années d’existence"
+        ],
+        "financement": "75% des dépenses, jusqu'à 100 000 Dirhams."
+      },
+      "fonds_hassan_ii": {
+        "description": "Aides financières aux projets d’investissement.",
+        "conditions": [
+          "Montant total d’investissement supérieur à 5 millions de Dirhams"
+        ],
+        "financement": {
+          "bâtiments_professionnels": "30% du coût",
+          "biens_équipement": "10% du coût"
+        }
+      },
+      "damane_express": {
+        "description": "Faciliter l’accès au financement pour les entreprises.",
+        "conditions": [
+          "Entreprises de droit marocain",
+          "Production de biens et/ou de services"
+        ],
+        "financement": {
+          "plafond": "1 million de Dirhams",
+          "garantie": "70% du crédit"
+        }
+      },
+      "damane_capital_risque": {
+        "description": "Apports en fonds propres pour les entreprises.",
+        "conditions": [
+          "Sociétés de droit marocain",
+          "Pas de procédure de redressement"
+        ],
+        "financement": {
+          "garantie": "50% des apports",
+          "plafond": "5 millions de Dirhams"
+        }
+      },
+      "mdm_invest": {
+        "description": "Financement des projets par les MRE.",
+        "conditions": [
+          "Marocain résidant à l'étranger"
+        ],
+        "financement": {
+          "contribution_non_remboursable": "Plafond de 5 millions de Dirhams"
+        }
+      }
+    }
+  }
+}

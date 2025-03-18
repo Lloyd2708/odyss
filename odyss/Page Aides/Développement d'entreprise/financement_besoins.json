@@ -1,0 +1,163 @@
+{
+  "financement_besoins": {
+    "introduction": "Au cours de son développement, votre entreprise doit, au moment opportun, détenir les ressources financières nécessaires pour faire face à ses échéances.",
+    "solutions_envisageables": [
+      "Programmes étatiques d’aide au développement d’entreprise",
+      "Dispositifs et fonds de garantie",
+      "Aides fiscales et sociales",
+      "Opérations de capital investissement",
+      "Moyens de financement bancaires"
+    ],
+    "programmes_etatiques": {
+      "moussandada": {
+        "description": "Programme d'accompagnement des PME dans leur démarche de modernisation et d'amélioration de leur compétitivité.",
+        "objectifs": "Accompagner 500 entreprises par an.",
+        "criteres_elegibilite": [
+          "PME inscrites au registre de commerce",
+          "Chiffre d'affaires annuel hors taxe <= 175 millions de Dirhams",
+          "Performance économique satisfaisante"
+        ],
+        "modeles_financement": {
+          "contribution": "60% des prestations de services, jusqu'à 600 000 Dirhams par entreprise."
+        }
+      },
+      "moussandada_ti": {
+        "description": "Programme visant à accélérer l’usage des technologies de l’information par les PME.",
+        "modules_finances": [
+          "Module Production",
+          "Module Gestion commerciale",
+          "Module Gestion financière",
+          "Module Ressources Humaines",
+          "Module Logistique"
+        ],
+        "contribution": "70% du coût d’acquisition des systèmes d’information, jusqu'à 400 000 Dirhams TTC.",
+        "criteres_elegibilite": [
+          "PME inscrites au registre de commerce",
+          "Chiffre d'affaires annuel hors taxe <= 175 millions de Dirhams"
+        ]
+      },
+      "moussandada_siyaha": {
+        "description": "Dispositif d’appui aux PME touristiques.",
+        "objectifs": "Accompagner plus de 600 PME touristiques à l’horizon 2020.",
+        "contribution": "Plafonnée à 1 million de dirhams par plan de progrès et par entreprise.",
+        "criteres_elegibilite": [
+          "Établissements d’hébergement touristique classés",
+          "Agences de voyages agréées",
+          "Entreprises de transport touristique routier agréées"
+        ]
+      },
+      "imtiiaz": {
+        "description": "Compétition nationale d’investissement pour PME à fort potentiel de croissance.",
+        "criteres_elegibilite": [
+          "Minimum 2 ans d'existence",
+          "Accord de principe d'une banque partenaire",
+          "Chiffre d'affaires annuel hors taxe <= 175 millions de Dirhams"
+        ],
+        "modalites_financement": "Prime à l’investissement de 20% du montant total du projet, jusqu'à 5 millions de Dirhams."
+      },
+      "istitimar_croissance": {
+        "description": "Programme dédié à la Très Petite Entreprise (TPE) pour soutenir l’investissement.",
+        "criteres_elegibilite": [
+          "Chiffre d'affaires <= 10 millions de Dirhams"
+        ]
+      },
+      "tatwir": {
+        "description": "Programme pour les entreprises porteuses d’un projet innovant de recherche et développement.",
+        "contribution": "50% des dépenses engagées, jusqu'à 4 millions de Dirhams.",
+        "criteres_elegibilite": [
+          "Entreprises de droit marocain",
+          "Deux années d’existence"
+        ]
+      },
+      "intilak": {
+        "description": "Programme pour les start-up à fort potentiel de développement.",
+        "contribution": "90% des dépenses liées au projet, jusqu'à 1 million de Dirhams.",
+        "criteres_elegibilite": [
+          "Entreprises de droit marocain",
+          "Maximum deux années d’activité"
+        ]
+      },
+      "ptr": {
+        "description": "Prestation Technologique Réseau pour promouvoir l’innovation.",
+        "contribution": "75% des dépenses, jusqu'à 100 000 Dirhams.",
+        "criteres_elegibilite": [
+          "PME de droit marocain",
+          "Minimum deux années d’existence"
+        ]
+      },
+      "fonds_hassan_ii": {
+        "description": "Aides financières aux projets d’investissement dans certains secteurs industriels.",
+        "secteurs_eligibles": [
+          "Fabrication d'équipements pour l'industrie automobile",
+          "Fabrication d'équipements pour l'industrie aéronautique"
+        ],
+        "projets_eligibles": "Montant total d’investissement > 5 millions de Dirhams."
+      }
+    },
+    "dispositifs_et_fonds_de_garantie": {
+      "damane_dev": {
+        "description": "Garantie des prêts bancaires à moyen et long termes.",
+        "entreprises_beneficiaires": [
+          "Entreprises de droit marocain créées depuis plus de 3 ans",
+          "Ayant pour objet la production de biens et/ou de services"
+        ],
+        "pourcentage_risque": "60% du crédit en principal.",
+        "plafond_risque": "10 millions de Dirhams par entreprise."
+      },
+      "damane_express": {
+        "description": "Garantie pour les crédits d’investissement et d’exploitation.",
+        "entreprises_beneficiaires": [
+          "Entreprises de droit marocain",
+          "Ayant pour objet la production de biens et/ou de services"
+        ],
+        "montant_max": "1 million de Dirhams."
+      },
+      "damane_capital_risque": {
+        "description": "Apports en fonds propres pour les entreprises.",
+        "entreprises_beneficiaires": [
+          "Sociétés de droit marocain",
+          "N'ayant pas fait l’objet d’une procédure de redressement"
+        ],
+        "plafond_risque": "5 millions de Dirhams par entreprise."
+      },
+      "mdm_invest": {
+        "description": "Financement des projets de création ou d’extension d’entreprises par des MRE.",
+        "conditions": [
+          "Marocain résidant à l’étranger",
+          "Retour définitif dans l'année avant le dépôt du projet"
+        ]
+      }
+    },
+    "aides_fiscales_et_sociales": {
+      "definition": "L’Etat intervient à travers des mesures fiscales pour l’exonération ou la réduction des impôts.",
+      "avantages_fiscaux": {
+        "impot_sur_les_benefices": {
+          "exoneration": "Exonération de la Cotisation Minimale pendant 36 mois.",
+          "taux_reduit": "17,5% pour les entreprises exportatrices."
+        },
+        "cotisation_minimale": {
+          "taux": "0,50%",
+          "minimum": "3.000 Dirhams pour IS."
+        },
+        "impot_sur_le_revenu": {
+          "exoneration": "Exonération de la Cotisation Minimale pendant 36 mois."
+        },
+        "taxe_professionnelle": {
+          "exoneration": "Exonération quinquennale pour les entreprises nouvellement créées."
+        }
+      }
+    },
+    "capital_investissement": {
+      "definition": "Activité financière consistant à effectuer une prise de participation dans des entreprises non cotées.",
+      "role_et_contribution": [
+        "Source de financement pour les entreprises.",
+        "Outil d’accompagnement managérial."
+      ],
+      "avantages": [
+        "Création de valeur pour les dirigeants et actionnaires.",
+        "Accélération du développement et de l’innovation.",
+        "Soutien à l’entreprise tout au long de son existence."
+      ]
+    }
+  }
+}
